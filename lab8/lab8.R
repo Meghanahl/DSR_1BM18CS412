@@ -1,3 +1,8 @@
+"
+Q. Create a dotchart from the mtcars dataset which is loaded from ggplot2 package.
+Plot y-axis by naming the different types of mtcars against mpg values on x-axis.
+"
+
 library(ggplot2)
 head(mtcars)
 mtcars
